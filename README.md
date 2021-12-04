@@ -4,14 +4,13 @@
 - - -
 IMAGE 1:
 
-![Screenshot of Final Project 1](https://github.com/tutchings/20-react-portfolio/blob/master/public/images/readme-imgs/portfolio4.PNG)
-- - -
-IMAGE 2:
 
-![Screenshot of Final Project 2](https://github.com/tutchings/20-react-portfolio/blob/master/public/images/readme-imgs/portfolio3.PNG)
+- - -
+![IMG 1](https://user-images.githubusercontent.com/85536828/144714919-ba6d0494-233a-4caf-866a-7c9ee879bf72.png)
+
 - - -
 
-[Deployed Website Link](https://tutchings.github.io/20-react-portfolio/)
+[Deployed Website Link](https://github.com/Genius2k21/20-REACT-PORTFOLIO-JMB/)
 
 ## Project Overview
 
