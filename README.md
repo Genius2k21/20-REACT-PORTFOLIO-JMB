@@ -10,7 +10,7 @@ IMAGE 1:
 
 - - -
 
-[Deployed Website Link](https://github.com/Genius2k21/20-REACT-PORTFOLIO-JMB/)
+[Deployed Website Link](https://reactportfoliojmb.herokuapp.com)
 
 ## Project Overview
 
