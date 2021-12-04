@@ -1,0 +1,184 @@
+{
+  "main": {
+    "name":"Joseph Blake",
+    "description":"Software Developer / Designer / Lifetime Student",
+    "image":"profilepic.jpg",
+    "bio":"My name is Joseph Blake and I am a Georgia Tech coding Bootcamp Student. Based in Perry, GA, I am a detail-oriented Software Developer passionate about learning, researching, and writing code seeking the opportunity to take my programming skills and experience to a company where I can continue to learn and grow as a professional software developer.",
+    "contactmessage":"Feel free to contact me via email, this form, or LinkedIn",
+    "email": "josephblake2012@yahoo.com",
+    "phone": "478-235-3478",
+    "github":"https://github.com/Genius2k21/20-REACT-PORTFOLIO-JMB",
+    "project":"https://www.linkedin.com/in/joseph-blake-14212548/",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Perry",
+      "state":"GA",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://github.com/Genius2k21/20-REACT-PORTFOLIO-JMB",
+    "resumedownload":"https://drive.google.com/file/d/1z-EfydB5ZVRvnLHXoPAg1dbRDvHO-gSV/view?usp=sharing",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/Genius2k21/20-REACT-PORTFOLIO-JMB",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/joseph-blake-14212548/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"* Each skill level is weighted in correlation to the remaining skills",
+    "education":[
+      {
+        "school":"Georgia Tech Coding Bootcamp",
+        "gpa": "A+ Academic Average",
+        "degree":"Coding Bootcamp Certificate",
+        "graduated":"December 2021",
+        "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, Git"
+      },
+      {
+        "school":"Bellevue University",
+        "gpa": "3.977 GPA",
+        "degree":"Master's of Science in Information Systems Technology",
+        "graduated":"March 2017",
+        "description":"Coursework Included: Front-End Web Development (HTML, CSS, JavaScript), Back-End Web Development (Perl, Python, PHP), C-Programming, Database Management Systems (SQL, ERDplus, Teradata), Adobe Creative Suite, Microsoft Office Applications, Business Minor (Management, Finance, Accounting, Marketing, Economics)"
+      }
+    ],
+    "work":[
+      {
+        "company":"GEICO",
+        "title":"Claims Adjuster",
+        "years":"February 2020 - Present",
+        "description":"resolve insurance claims"
+      },
+      {
+        "company":"Department of the Air Force",
+        "title":"Information Systems Technology",
+        "years":"February 2015 - February 2020",
+        "description":"Supply Chain Management"
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML / CSS / Bootstrap",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"35%"
+      },
+      {
+        "name":"MongoDB / Mongoose",
+        "level":"45%"
+      },
+      {
+        "name":"Terminal / Git",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJS / ExpressJS",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL / Sequelize",
+        "level":"55%"
+      },
+      {
+        "name":"JavaScript / jQuery",
+        "level":"90%"
+      },
+      {
+        "name":"REST APIs",
+        "level":"75%"
+      },
+      {
+        "name":"C-Programming",
+        "level":"30%"
+      },
+      {
+        "name":"Amazon Web Services / Serverless",
+        "level":"25%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"SQL Employee Tracker",
+        "shorttitle": "SQL Employee Tracker",
+        "category":"Personal Project",
+        "image":"disneyPlatformer.PNG",
+        "info":"HTML, CSS, JS, Bootstrap",
+        "url":"https://github.com/Genius2k21/12-SQL-Employee-Tracker",
+        "repo":"https://genius2k21.github.io/12-SQL-Employee-Tracker/"
+      },
+      {
+        "title":"03 Password Generator",
+        "shorttitle": "Password Generator",
+        "category":"Academic Project",
+        "image":"wfu-asgm-project.PNG",
+        "info":"HTML, CSS, JS",
+        "url":"https://genius2k21.github.io/03_Password_Generator/",
+        "repo":"https://github.com/Genius2k21/03_Password_Generator"
+      },
+      {
+        "title":"Note Taker",
+        "shorttitle": "Note Taker",
+        "category":"Academic  Project",
+        "image":"nps.png",
+        "info":"Node, NPM, Express, Inquirer, UUID, Bootstrap, Google Fonts",
+        "url":"https://notetaker2k21.herokuapp.com/",
+        "repo":"https://github.com/Genius2k21/11-Note-Taker"
+      },
+      {
+        "title":"18 Fitness Tracker",
+        "shorttitle": "Fitness Tracker",
+        "category":"Academic Project",
+        "image":"userDirectoryImg1.PNG",
+        "info":"React, Nodejs, HTML, CSS, JS, Bootstrap",
+        "url":"https://fitnesstracker18jmb.herokuapp.com/",
+        "repo":"https://github.com/Genius2k21/18-Fitness-Tracker"
+      },
+      {
+        "title":"Progressive Budget",
+        "shorttitle": "Progressive Budget",
+        "category":"Academic Project",
+        "image":"budgetTracker1.PNG",
+        "info":"MongoDB, Mongoose, webpack, service-worker, Express, Nodejs",
+        "url":"https://budgettrackerjmb.herokuapp.com/",
+        "repo":"https://github.com/Genius2k21/19-Progressive-Budget-JMB"
+      },
+      {
+        "title":"REDUX STORE",
+        "shorttitle": "redux store",
+        "category":"Academic Project",
+        "image":"burgerTracker.PNG",
+        "info":"MySql, Express, Nodejs, Handlebars, HTML, CSS, JS, Bootstrap, jQuery",
+        "url":"https://redux2k21.herokuapp.com/",
+        "repo":"https://github.com/Genius2k21/22-STATE-"
+      },
+      {
+        "title":"Weather Dashboard",
+        "shorttitle": "Weather Dashboard",
+        "category":"Academic Project",
+        "image":"weatherDashboard.png",
+        "info":"HTML, CSS, Bootstrap, JS, jQuery, OpenWeather API, MapQuest API",
+        "url":"https://genius2k21.github.io/06-Server-Side-APIs-Weather-Dashboard/",
+        "repo":"https://github.com/Genius2k21/06-Server-Side-APIs-Weather-Dashboard"
+      },
+      {
+        "title":"04 Web API Code Quiz",
+        "shorttitle": "Code Quiz",
+        "category":"Academic Project",
+        "image":"blackjack.PNG",
+        "info":"HTML, CSS, JS",
+        "url":"https://genius2k21.github.io/04-Web-APIs-Code-Quiz/",
+        "repo":"https://github.com/Genius2k21/04-Web-APIs-Code-Quiz"
+      }
+    ]
+  }
+}
